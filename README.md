@@ -1,6 +1,6 @@
-[![npm version](https://img.shields.io/npm/v/react-css-themr.svg?style=flat-square)](https://www.npmjs.com/package/react-css-themr)
-[![Build Status](http://img.shields.io/travis/javivelasco/react-css-themr/master.svg?style=flat-square)](https://travis-ci.org/javivelasco/react-css-themr)
-[![NPM Status](http://img.shields.io/npm/dm/react-css-themr.svg?style=flat-square)](https://www.npmjs.com/package/react-css-themr)
+# About this fork
+
+This fork is based on the 1.7.2 version of the original [react-css-themr](https://github.com/javivelasco/react-css-themr) package. It is being updated to work with React 16, no further improvements are planned.
 
 # React CSS Themr
 
