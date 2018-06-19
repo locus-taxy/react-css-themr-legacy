@@ -1,8 +1,8 @@
 {
-  "name": "react-css-themr",
+  "name": "react-css-themr-legacy",
   "description": "React CSS Themr",
-  "homepage": "https://github.com/javivelasco/react-css-themr#readme",
-  "version": "1.7.3-beta.0",
+  "homepage": "https://github.com/mitoyarzun/react-css-themr#readme",
+  "version": "1.8.0",
   "main": "./lib",
   "author": {
     "email": "javier.velasco86@gmail.com",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javivelasco/react-css-themr.git"
+    "url": "git+https://github.com/mitoyarzun/react-css-themr.git"
   },
   "bugs": {
-    "url": "https://github.com/javivelasco/react-css-themr/issues"
+    "url": "https://github.com/mitoyarzun/react-css-themr/issues"
   },
   "keywords": [
     "css-modules",
@@ -62,7 +62,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.3.0"
+    "react": "^16.4.0"
   },
   "typings": "./index.d.ts"
 }
