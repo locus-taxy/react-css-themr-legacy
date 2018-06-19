@@ -1,6 +1,7 @@
 import expect from 'expect'
-import React, { PropTypes, Component } from 'react'
-import TestUtils from 'react-addons-test-utils'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
+import TestUtils from 'react-dom/test-utils'
 import { ThemeProvider } from '../../src/index'
 
 describe('ThemeProvider', () => {
