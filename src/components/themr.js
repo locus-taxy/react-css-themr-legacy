@@ -224,6 +224,10 @@ function merge(original = {}, mixin = {}) {
         //this handles issue when isomorphic-style-loader addes helper functions to css-module
         break //just skip
       }
+      case 'number': {
+        //this handles issues when we get numbers due to CSS-in-JS themes passed down as props
+        break // skip
+      }
 
       default: {
         //plain values
@@ -241,6 +245,10 @@ function merge(original = {}, mixin = {}) {
           case 'function': {
             //this handles issue when isomorphic-style-loader addes helper functions to css-module
             break //just skip
+          }
+          case 'number': {
+            //this handles issues when we get numbers due to CSS-in-JS themes passed down as props
+            break // skip
           }
 
           default: {
