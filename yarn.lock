@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@types/react@~15.0.4":
+  version "15.0.39"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.39.tgz#5a820c75cabf4cbfa177a3ab5a9a0634c46b14d1"
+  integrity sha512-rbkuOYo9XIDQf1evW8VQXW/PbiaJM6btbaO18u2pQ4A2PL7t4V+jx9CJp3WtWP+N3mLHiXMaHcdMmA8gSiId4A==
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"
